@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.button1{
+    width: 150px;
+    text-align: center;
+    margin: 50px auto;
+    background: #7fff00;
+    border: 1px solid black;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .3s;
+}
+.button1:hover{
+    background-color: #FFFFFF;
+}
+.button2{
+    width: 150px;
+    text-align: center;
+    margin: 50px auto;
+    background: #FFFFFf;
+    border: 1px dashed black;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .4s;
+}
+.button2:hover{
+    background: linear-gradient(to top, #2f00ff,#ff2600);
+    width: 160px;
+    height: 40px;
+    text-align: center;
+    color: whitesmoke;
+    border: 1px solid #33ff00;
+}
+
+/* input button form here */
+
+.input-btn{
+    text-align: center;
+}
+input{
+    background: #6f00ff;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+    width: 140px;
+    height: 50px;
+    border-radius: 20px;
+    transition: .3s;
+}
+input:hover{
+    background: #ffff;
+    color: black;
+}
+.input-btn2{
+    text-align: center;
+    margin: 40px;
+}
+.btn2{
+    background: #FFFFFF;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    width: 140px;
+    height: 50px;
+    border-radius: 20px;
+    transition: .4s;
+}
+.btn2:hover{
+    background: #6f00ff;
+    color: whitesmoke;
+    width: 150px;
+    height: 55px;
+    
+}
